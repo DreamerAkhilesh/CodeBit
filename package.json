@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ashok020/online-code-editor.git"
+    "url": "git+https://github.com/DreamerAkhilesh/CodeBit.git"
   },
-  "author": "ashok",
+  "author": "Akhilesh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ashok020/online-code-editor/issues"
+    "url": "https://github.com/DreamerAkhilesh/CodeBit/issues"
   },
-  "homepage": "https://github.com/ashok020/online-code-editor#readme",
+  "homepage": "https://github.com/DreamerAkhilesh/CodeBit#readme",
   "dependencies": {
     "body-parser": "^1.20.0",
     "connect-mongodb-session": "^3.1.1",
